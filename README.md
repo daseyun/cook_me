@@ -1,3 +1,6 @@
+Find recipes for the ingredients you have
+
+
 * Software needed:
 * MySQL Workbench
 * Java IDE (eg. IntelliJ IDEA)
